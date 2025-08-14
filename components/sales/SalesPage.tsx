@@ -4,7 +4,7 @@ import FaqItem from './FaqItem';
 import CheckIcon from '../icons/CheckIcon';
 
 const SalesPage: React.FC = () => {
-    const checkoutUrl = "https://chk.eduzz.com/cibiqk53?currency=USD";
+    const checkoutUrl = "https://buy.stripe.com/cNiaEXfL80Z4fAX3P93ZK01";
 
     return (
         <div className="bg-white text-gray-800 font-sans w-full animate-fade-in-slow">
